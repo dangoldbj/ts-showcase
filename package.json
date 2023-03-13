@@ -1,4 +1,7 @@
 {
   "name": "ts-showcase",
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
 }
